@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# BENIM YAZDIGIM EKLEMELER
+appsettings.json
+appsettings.Development.json
